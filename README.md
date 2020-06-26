@@ -25,7 +25,7 @@ To take it a step further, the project shall use the Smart Document Understandin
 The dataset used is a User Guide of an Ecobee Heater
 
 ### Preview
-Check it out here [Node-RED Deployment](https://customer-help-desk-node-red.eu-gb.mybluemix.net/ui/#!/0?socketid=rXT-rrpr1e5ki-EcAABS)
+
 <p align="center">
 <img src="ChatBot preview.png" alt="Logo"  >
 </p>
